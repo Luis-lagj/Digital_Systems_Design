@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+Tiempo = 0 | a = 0 | b = 00 | c = 0000
+Tiempo = 10000 | a = 0 | b = 11 | c = 0000
+Tiempo = 20000 | a = 1 | b = 00 | c = 0001
+Tiempo = 30000 | a = 1 | b = 01 | c = 0010
+Tiempo = 40000 | a = 1 | b = 10 | c = 0100
+Tiempo = 50000 | a = 1 | b = 11 | c = 1000
+$stop called at time : 60 ns : File "C:/binary_decoder_if/binary_decoder_if/binary_decoder_if.srcs/sim_1/new/tb_binary_decoder_if.sv" Line 45
