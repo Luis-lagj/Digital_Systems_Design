@@ -1,0 +1,36 @@
+INFO: [Common 17-3922] A valid Vivado Design Suite ENTERPRISE license has been detected. Your current license is active and will expire on 23-oct-2026.
+#-----------------------------------------------------------
+# Vivado v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Tue Sep  8 18:23:56 2026
+# Process ID         : 24644
+# Current directory  : C:/Users/luish/OneDrive/Desktop/Exercise_priority_encoder_using_if
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent8968 C:\Users\luish\OneDrive\Desktop\Exercise_priority_encoder_using_if\Exercise_priority_encoder_using_if.xpr
+# Log file           : C:/Users/luish/OneDrive/Desktop/Exercise_priority_encoder_using_if/vivado.log
+# Journal file       : C:/Users/luish/OneDrive/Desktop/Exercise_priority_encoder_using_if\vivado.jou
+# Running On         : LUIS_PC
+# Platform           : Windows 11
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz
+# CPU Frequency      : 2112 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 17031 MB
+# Swap memory        : 1073 MB
+# Total Virtual      : 18105 MB
+# Available Virtual  : 6892 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/luish/OneDrive/Desktop/Exercise_priority_encoder_using_if/Exercise_priority_encoder_using_if.xpr
+INFO: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/luish/OneDrive/Desktop/Exercise_priority_encoder_using_if/Exercise_priority_encoder_using_if.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/AMDDesignTools/2026.1/Vivado/data/ip'.
+open_project: Time (s): cpu = 00:00:52 ; elapsed = 00:00:26 . Memory (MB): peak = 1686.902 ; gain = 269.562
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Sep  8 18:25:22 2026...
